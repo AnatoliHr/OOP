@@ -1,0 +1,85 @@
+﻿Сборка начата 13.05.2017 13:54:26.
+     1>Проект "C:\Users\ahryb_000\Documents\Visual Studio 2015\Projects\OOP\OOP\OOP.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\OOP.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOP.cpp realization.cpp
+         realization.cpp
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(35): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(100): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(126): warning C4308: отрицательная целая константа преобразована в тип без знака
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(126): warning C4307: *: переполнение целой константы
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(134): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(159): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(167): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(170): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(183): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(205): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(213): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(228): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(236): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\realization.cpp(251): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note:  см. объявление "getch"
+         OOP.cpp
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(35): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+     1>c:\users\ahryb_000\documents\visual studio 2015\projects\oop\oop\prototip.h(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ahryb_000\Documents\Visual Studio 2015\Projects\OOP\Debug\OOP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\ahryb_000\Documents\Visual Studio 2015\Projects\OOP\Debug\OOP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ahryb_000\Documents\Visual Studio 2015\Projects\OOP\Debug\OOP.lib" /MACHINE:X86 Debug\OOP.obj
+         Debug\realization.obj
+         Debug\stdafx.obj
+         OOP.vcxproj -> C:\Users\ahryb_000\Documents\Visual Studio 2015\Projects\OOP\Debug\OOP.exe
+     1>Сборка проекта "C:\Users\ahryb_000\Documents\Visual Studio 2015\Projects\OOP\OOP\OOP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.52
